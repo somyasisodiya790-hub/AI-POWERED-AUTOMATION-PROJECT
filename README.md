@@ -9,3 +9,4 @@ By using tools like ChatGPT, Claude, and Napkin AI, complex tasks that take hour
 - *Home_Automation_Research.docx* → Full research article on home automation systems.
 
 Feel free to explore and download the document for learning purposes.
+https://github.com/somyasisodiya790-hub/AI-POWERED-AUTOMATION-PROJECT/blob/main/Home_Automation_Full_Research_Article.docx
