@@ -12,3 +12,5 @@ Feel free to explore and download the document for learning purposes.
 https://github.com/somyasisodiya790-hub/AI-POWERED-AUTOMATION-PROJECT/blob/main/Home_Automation_Full_Research_Article.docx
 
 https://github.com/somyasisodiya790-hub/AI-POWERED-AUTOMATION-PROJECT/blob/main/Home-Automation-Systems-Benefits-Technologies-and-Future-Trends_somya%20sisodiya.pptx
+
+Optimizing Omni-Channel Experiences with Customer Feedback.pdf
